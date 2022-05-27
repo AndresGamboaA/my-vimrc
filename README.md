@@ -1,3 +1,3 @@
 # my-vimrc
 
-This repository stores my VIM configuration files.
+This repository stores my neovim configuration file.
